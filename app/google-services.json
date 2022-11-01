@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "150515870019",
+    "firebase_url": "https://bloodbank-2a98c.firebaseio.com",
+    "project_id": "bloodbank-2a98c",
+    "storage_bucket": "bloodbank-2a98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150515870019:android:1441a6559fab7523",
+        "android_client_info": {
+          "package_name": "com.manit.amit.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150515870019-enve7ph6f1g3jj50e1hv56rcilqdnubl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manit.amit.bloodbank",
+            "certificate_hash": "29722767691bc35683db9b6c1ab1f539090be1af"
+          }
+        },
+        {
+          "client_id": "150515870019-12ug2t0stljr27379653mlh6c250pblj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manit.amit.bloodbank",
+            "certificate_hash": "c9ca6187c5ea128de2df2db75bc2b8473733843c"
+          }
+        },
+        {
+          "client_id": "150515870019-k33rqgh5q1es45gkma8mhsbfpk883qag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG_MhNlyOXJayS_vXHH7-agdLe_EfIvXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150515870019-k33rqgh5q1es45gkma8mhsbfpk883qag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

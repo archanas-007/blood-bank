@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+    <string name="need_a_new_account">NEED A NEW ACCOUNT ?</string>
+    <string name="display_name">Display name</string>
+    <string name="email">Email</string>
+    <string name="email_login">Your Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="login_account">LOGIN</string>
+    <string name="welcome_to_blood_bank">Welcome to Blood Bank App</string>
+    <string name="hint">Display Name</string>
+    <string name="log_out">Log Out</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="longtext">
+        The most common blood type is O, followed by
+        type A. Type O  individuals are often called
+        \"universal donors\" since their blood can be
+        transfused into persons with any blood type.
+        Those with type AB blood are called universal
+        recipients because they  can receive blood of
+        any type.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="cccc">Blood Bank India\' is a product developed for a social welfare initiative so
+        that nobody suffers due to blood unavailability.The need for blood is great - on any given day,
+        approximately 39,000 units of Red Blood Cells are needed. Each year, they intend to meet upto to 1%
+        (approx) of our nation’s demand for blood transfusion. \n\n
+
+        Despite the increase in the number of donors, blood remains in short supply during emergencies,
+        mainly attributed to the lack of information and accessibility. We positively believe this
+        application could be a handy one and can overcome most of these challenges by effectively
+        connecting the blood donors with the blood recipients.</string>
+</resources>

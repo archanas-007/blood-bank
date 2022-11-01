@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="blood_type">
+        <item> A+ </item>
+        <item> A- </item>
+        <item> B+ </item>
+        <item> B- </item>
+        <item> O+ </item>
+        <item> O- </item>
+        <item> AB- </item>
+        <item> AB+ </item>
+    </string-array>
+
+    <string-array name="genderlist">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Agartala</item>
+        <item>Agra</item>
+        <item>Ahmedabad</item>
+        <item>Aizawl</item>
+        <item>Allahabad</item>
+        <item>Bangalooru</item>
+        <item>Bhopal</item>
+        <item>Bhubaneshwar</item>
+        <item>Chandigarh</item>
+        <item>Chennai</item>
+        <item>Dehradun</item>
+        <item>Dispur</item>
+        <item>Gandhinagar</item>
+        <item>Gangtok</item>
+        <item>Gwalior</item>
+        <item>Hyderabad</item>
+        <item>Imphal</item>
+        <item>Indore</item>
+        <item>Itanagar</item>
+        <item>Jabalpur</item>
+        <item>Jaipur</item>
+        <item>Jamshedpur</item>
+        <item>Kanpur</item>
+        <item>Kohima</item>
+        <item>Kolkata</item>
+        <item>Lucknow</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>New Delhi</item>
+        <item>Panaji</item>
+        <item>Patna</item>
+        <item>Pune</item>
+        <item>Raipur</item>
+        <item>Ranchi</item>
+        <item>Shillong</item>
+        <item>Shimla</item>
+        <item>Srinagar</item>
+        <item>Surat</item>
+        <item>Thiruvananthapuram</item>
+        <item>Vadodara</item>
+        <item>Varanasi</item>
+        <item>Vishakhapatnam</item>
+    </string-array>
+
+</resources>
